@@ -4,12 +4,29 @@
 [![Instagram Badge](https://img.shields.io/badge/-@AdSchl2e-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adschl2e/)](https://instagram.com/adschl2e)
 [![Gmail Badge](https://img.shields.io/badge/-ad.schlee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ad.schlee@gmail.com)](mailto:ad.schlee@gmail.com)
 
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AdSchl2E"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
+![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
+![React](https://img.shields.io/badge/-React-green?style=flat-circle&logo=react)
+![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
+![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) 
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=flat-circle&logo=netbeans)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
+![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
+[](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
+![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)
+![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
