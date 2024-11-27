@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-schlee/)](https://www.linkedin.com/in/adam-schlee/)
-[![Instagram Badge](https://img.shields.io/badge/-@__ad.schlee-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adschl2e/)](https://instagram.com/adschl2e)
-[![Gmail Badge](https://img.shields.io/badge/-adschlee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ad.schlee@gmail.com)](mailto:ad.schlee@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@AdSchl2e-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adschl2e/)](https://instagram.com/adschl2e)
+[![Gmail Badge](https://img.shields.io/badge/-ad.schlee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ad.schlee@gmail.com)](mailto:ad.schlee@gmail.com)
 
 ![Cover](https://github.com/AdSchl2E/AdSchl2E/blob/master/TokyoTowerNight.jpg)
 
