@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@AdSchl2e-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adschl2e/)](https://instagram.com/adschl2e)
 [![Gmail Badge](https://img.shields.io/badge/-ad.schlee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ad.schlee@gmail.com)](mailto:ad.schlee@gmail.com)
 
-![Java](https://img.shields.io/badge/-Java-dark?style=flat-circle&logo=java)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-circle&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
