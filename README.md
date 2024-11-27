@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Cover]("https://github.com/AdSchl2E/AdSchl2E/blob/master/TokyoTowerNight.jpg")
+![Cover](https://github.com/AdSchl2E/AdSchl2E/blob/master/TokyoTowerNight.jpg)
 
 <!--
 **AdSchl2E/AdSchl2E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
