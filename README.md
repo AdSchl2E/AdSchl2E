@@ -24,14 +24,14 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-circle&logo=Oracle)
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-circle&logo=mysql)
 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&theme=github_dark&show_icons=true">
-    <img src="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&show_icons=true">
-</picture>
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=AdSchl2E&theme=github_dark&layout=compact"/>
+<div>
+    <div>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&theme=github_dark&show_icons=true">
+        <img src="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&show_icons=true">
+    </div>
+    <div>
+        <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=AdSchl2E&theme=github_dark&layout=compact"/>
+    </div>
 </div>
 
 
