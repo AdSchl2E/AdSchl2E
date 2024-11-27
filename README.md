@@ -23,6 +23,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-circle&logo=MongoDB)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-circle&logo=Oracle)
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-circle&logo=mysql)
+![DAX](https://img.shields.io/badge/-DAX-black?style=flat-circle&logo=dax)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-circle&logo=powerbi)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&theme=github_dark&show_icons=true">
