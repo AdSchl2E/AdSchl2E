@@ -25,19 +25,13 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-circle&logo=mysql)
 
 
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdSchl2E/AdSchl2E/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdSchl2E/AdSchl2E/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&show_icons=true">
 </picture>
 
-
-> Language usage
-
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=AdSchl2E&theme=gruvbox_light&layout=compact"/>
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=AdSchl2E&theme=gruvbox_dark&layout=compact"/>
 </div>
 
 
