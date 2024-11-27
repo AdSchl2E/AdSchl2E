@@ -24,7 +24,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-circle&logo=Oracle)
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-circle&logo=mysql)
 
-<div>
+<div style="display:flex;">
     <div>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&theme=github_dark&show_icons=true">
         <img src="https://github-readme-stats-ouuan.vercel.app/api?username=AdSchl2E&show_icons=true">
