@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-circle&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
 ![php](https://img.shields.io/badge/-php-black?style=flat-circle&logo=php)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
