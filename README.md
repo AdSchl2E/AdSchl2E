@@ -37,7 +37,7 @@
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=AdSchl2E&theme=github_dark&layout=compact"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/howdrox/howdrox/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/adschl2e/adschl2e/output/snake.svg)
 
 
 <!--
